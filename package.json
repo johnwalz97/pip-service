@@ -27,7 +27,7 @@
     "morgan": "^1.8.1",
     "pelias-logger": "^1.2.1",
     "pelias-wof-admin-lookup": "^5.1.2",
-    "through2": "^3.0.0"
+    "through2": "^3.0.1"
   },
   "devDependencies": {
     "jshint": "^2.8.0",
